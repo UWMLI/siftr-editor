@@ -10,8 +10,8 @@
     "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
     "gulp-sass": "^4.1.0",
-    "webpack": "^3.5.5",
-    "webpack-stream": "^4.0.0"
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0"
   },
   "repository": {
     "type": "git",
